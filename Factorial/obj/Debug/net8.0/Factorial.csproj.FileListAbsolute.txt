@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\Factorial\Factorial\bin\Debug\net8.0\Factorial.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\Factorial\Factorial\bin\Debug\net8.0\Factorial.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\Factorial\Factorial\bin\Debug\net8.0\Factorial.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\Factorial\Factorial\bin\Debug\net8.0\Factorial.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\Factorial\Factorial\bin\Debug\net8.0\Factorial.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\Factorial\Factorial\obj\Debug\net8.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\Factorial\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\Factorial\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\Factorial\Factorial\obj\Debug\net8.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\Factorial\Factorial\obj\Debug\net8.0\Factorial.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\Factorial\Factorial\obj\Debug\net8.0\refint\Factorial.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\Factorial\Factorial\obj\Debug\net8.0\Factorial.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\Factorial\Factorial\obj\Debug\net8.0\Factorial.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\Factorial\Factorial\obj\Debug\net8.0\ref\Factorial.dll
